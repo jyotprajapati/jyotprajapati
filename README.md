@@ -1,6 +1,7 @@
+![MasterHead](https://www.zealousweb.com/wp-content/uploads/2021/06/Blog-Banner-9.jpg)
 <h1 align="center">Hi 👋, I'm Jyot Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3792792/programmer.png?" alt="Girl in a jacket" width="500" height="600">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3792792/programmer.png?" alt="Girl in a jacket" width="400" height="250" align = "right">
 
 
 - 🔭 I’m currently working on **Edusphere (E-learning Application)**
